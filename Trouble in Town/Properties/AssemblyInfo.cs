@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyTitle("Trouble in Town")]
 [assembly: AssemblyDescription("A C# implementation of the game Mafia/Werewolf")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Azeez Daoud")]
 [assembly: AssemblyProduct("Trouble in Town")]
 [assembly: AssemblyCopyright("Copyright © 2020")]
 [assembly: AssemblyTrademark("")]
@@ -53,3 +53,4 @@ using System.Windows;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("0.1")]
 [assembly: AssemblyFileVersion("0.1")]
+[assembly: NeutralResourcesLanguage("en")]
